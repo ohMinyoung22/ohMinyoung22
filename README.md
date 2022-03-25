@@ -5,8 +5,10 @@
   
 # 오민영(Oh Min-young)
   
-##### DGU 22 Statistics Major
-##### Interested in Data-Analyzing & Programming
+#### DGU 22 Statistics Major
+#### Interested in Data-Analyzing & Programming
+  
+  
   
   
 ## Recently Learning
