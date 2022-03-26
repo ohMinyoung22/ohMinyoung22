@@ -5,7 +5,7 @@
   
 # 오민영(Oh Min-young)
   
-#### DGU 22 Statistics Major
+#### DGU 22 Statistics 
 #### 동국대 멋쟁이사자처럼 10기 백엔드
 #### Interested in Data-Analyzing & Programming
   
