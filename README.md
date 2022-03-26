@@ -6,8 +6,8 @@
 # 오민영(Oh Min-young)
   
   
-  <a href="https://www.instagram.com/ohminyoung22" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=appveyor&logoColor=white"/></a> 
-  <a href="https://velog.io/@ohminyoung22" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=appveyor&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ohminyoung22" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+  <a href="https://velog.io/@ohminyoung22" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white"/></a>
 #### DGU 22 Statistics 
 #### 동국대 멋쟁이사자처럼 10기 백엔드
 #### Interested in Data-Analyzing & Programming
