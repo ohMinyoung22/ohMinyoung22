@@ -10,6 +10,7 @@
   <a href="https://velog.io/@ohminyoung22" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997.svg?style=flat-square&logo=Velog&logoColor=white"/></a>
 #### DGU 22 Statistics 
 #### 동국대 멋쟁이사자처럼 10기 백엔드
+#### 마인크래프트 플러그인 개발 / 데이터 분석 / 앱 개발 / 웹 개발
   
   
   
