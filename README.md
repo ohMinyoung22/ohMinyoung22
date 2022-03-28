@@ -20,3 +20,8 @@
   
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)  ![Django](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=Django&logoColor=white) 
 </div>
+
+##### Flutter: https://www.inflearn.com/course/%ED%94%8C%EB%9F%AC%ED%84%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/
+##### Pandas: https://www.inflearn.com/course/%ED%8C%90%EB%8B%A4%EC%8A%A4-pandas/
+##### Django: Codelion, https://www.udemy.com/course/python-and-django-full-stack-web-developer-bootcamp/
+##### JavaScript: Codelion, https://www.udemy.com/course/the-complete-javascript-course/
